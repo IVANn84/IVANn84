@@ -1,7 +1,7 @@
   ## Hi 👋 My name is Ivan Khristenko.
 
 * 🌍  I'm based in Saint-Petersburg
-* ✉️  You can contact me at [ivan.tihii1984@gmail.com](mailto:ivan.tihii1984@gmail.com)
+* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](ivan.tihii1984@gmail.com)
 * 🧠  I am studying JS at Hexlet School
   
  ### Skills:
