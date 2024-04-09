@@ -17,5 +17,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="certificate" alt="certificate" width="40" height="40"/> <p align="left">
 </p>
 
-[![codewars](https://www.codewars.com/users/Ivan_8491/badges/large)]
+![codewars](https://www.codewars.com/users/Ivan_8491/badges/large)
 
