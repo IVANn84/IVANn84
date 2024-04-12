@@ -5,8 +5,8 @@
 * 🧠  I am studying JS at Hexlet School.
 * [Certificate of Education](https://github.com/IVANn84/IVANn84/blob/main/Ivan%20Khristenko%20JS%20En.png)
 
-![codewars](https://www.codewars.com/users/Ivan_8491/badges/large)
-
+[![codewars](https://www.codewars.com/users/Ivan_8491/badges/large)](https://www.codewars.com/users/Ivan_8491)
+****
 
 
  ### 💻 Skills:
