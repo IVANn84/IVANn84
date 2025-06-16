@@ -4,6 +4,7 @@
 * ✉️  You can contact me at [ivan.tihii1984@gmail.com](mailto:ivan.tihii1984@gmail.com)
 * 🧠  I am studying JS at Hexlet School.
 * [Certificate of Education](https://github.com/IVANn84/IVANn84/blob/main/Ivan%20Khristenko%20JS%20En.png)
+* [Certificate of Education TS](https://github.com/IVANn84/TS__purpleschool/blob/main/_5_ru.png)
 
 [![codewars](https://www.codewars.com/users/Ivan_8491/badges/large)](https://www.codewars.com/users/Ivan_8491)
 ****
